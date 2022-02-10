@@ -5,7 +5,7 @@
 <h2>Hey! 👋</h2>
 
 
-I'm Arvinth S S! 
+I'm Arvinth Senthilkumar! 
 - <i>Currently:</i> Student at guvi & Industrial Engineer. 
 
 <h2>💻 I'm Currently Learning</h2>
