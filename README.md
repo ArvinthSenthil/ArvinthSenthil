@@ -5,8 +5,9 @@
 <h2>Hey! 👋</h2>
 
 
-I'm Arvinth Senthilkumar! 
-- <i>Currently:</i> Student at guvi & Industrial Engineer. 
+<h1 align="center"> I'm Arvinth Senthilkumar</h1>
+<h3  align="center">Student at guvi & Industrial Engineer.</h3>
+  
 
 <h2>💻 I'm Currently Learning</h2>
 
@@ -32,7 +33,11 @@ __Full stack development at Guvi__
 <h2>Currently working:</h2>
 <h4>Industrial Engineer</h4>
 
-Now working as Industrial Engineer at Delta Electronics India. I am in improvement of production process & installation of integrated systems.
+working as Industrial Engineer at Delta Electronics India. I am in improvement of production process & installation of integrated systems.
+
+<h2> About Arvinth⚡:</h2>
+
+Completed B Tech in Mechatronics & living in Hosur, TN. Outside Tech, I love to watch movies, enjoy music and playing cricket.
 
 
 
@@ -42,17 +47,11 @@ Now working as Industrial Engineer at Delta Electronics India. I am in improveme
 
   
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
     <a href="https://github.com/ArvinthSenthil/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arvinth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArvinthSenthil&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </p>
 </div>
 
-<h2> About Arvinth⚡:</h2>
-
-I'm a Graduate Student living in Hosur, TN. Outside Tech, I love to watch movies, enjoy music and playing cricket.
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/ArvinthSenthil/github-readme-stats"><img alt="Arvinth Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArvinthSenthil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -67,6 +66,7 @@ I'm a Graduate Student living in Hosur, TN. Outside Tech, I love to watch movies
 <!-- <br/> -->
 <br/>
  
-<h2>📫 How to reach me:</h2>
+<h2>📫 How to reach me:
 
-<a href="arvinthraj1999@gmail.com"></a>
+arvinthraj1999@gmail.com
+    </h2>
