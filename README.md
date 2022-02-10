@@ -27,16 +27,7 @@ __Full stack development at Guvi__
     <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
-<img alt="contribution" src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/aacd16770065d3e74ca60fa2b021fbbf6337bf19/github-contribution-grid-snake.svg" />
 
-
-<br/>
-
-<p  align="center">
-    <a href="https://github.com/BINDHARAN/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BINDHARAN streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BINDHARAN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <h2>Currently working:</h2>
 <h4>Industrial Engineer</h4>
